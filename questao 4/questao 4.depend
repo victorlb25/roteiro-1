@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1534298207 source:c:\users\marc\documents\questao 4\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1534298085 c:\users\marc\documents\questao 4\include\pessoa.h
+	<string>
+
+1534298085 source:c:\users\marc\documents\questao 4\src\pessoa.cpp
+	"Pessoa.h"
+
