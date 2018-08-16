@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1533955898 source:c:\users\marc\documents\questao3\src\empregado.cpp
+	"Empregado.h"
+
+1533955207 c:\users\marc\documents\questao3\include\empregado.h
+	<string>
+
+1534292840 source:c:\users\marc\documents\questao3\main.cpp
+	<iostream>
+	"Empregado.h"
+	<string>
+
